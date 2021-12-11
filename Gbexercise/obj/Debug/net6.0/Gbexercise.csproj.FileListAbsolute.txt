@@ -1,0 +1,15 @@
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\bin\Debug\net6.0\Gbexercise.exe
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\bin\Debug\net6.0\Gbexercise.deps.json
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\bin\Debug\net6.0\Gbexercise.runtimeconfig.json
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\bin\Debug\net6.0\Gbexercise.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\bin\Debug\net6.0\ref\Gbexercise.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\bin\Debug\net6.0\Gbexercise.pdb
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.csproj.AssemblyReference.cache
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.AssemblyInfoInputs.cache
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.AssemblyInfo.cs
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.csproj.CoreCompileInputs.cache
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\ref\Gbexercise.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.pdb
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbexercise\obj\Debug\net6.0\Gbexercise.genruntimeconfig.cache
