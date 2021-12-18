@@ -82,45 +82,15 @@ else
 
 Console.WriteLine("Введите число: ");
 int number4 = Convert.ToInt32(Console.ReadLine());
-if (number4 <= 99)
+if (number4 < 100)
 {
     Console.WriteLine("Третьей цифры нет");
 }
-else if (number4 < 1000)
+else if (number4 > 1000)
 {
-    int i = number4 % 10;
-    Console.WriteLine(i);
-}
-
-else (number4 > 999)
-{
-    int j = number4 / 10;
-    do
+    while (number4 > 1000)
     {
-        int number6 = j % 10;
-        Console.WriteLine(j);
-    } 
-    while (j < 1000);
-    Console.ReadKey();
+        number4 /= 10;
+    }
+    Console.WriteLine("Третья цифра числа: " + number4 % 10);
 }
-//else  (number4 > 999);
-//{
-  //  while (number4 > 999)
-    //{
-      //  int number5 = number4 /10;
-    //}
-    //return number5;
-    //int k = number5 % 10;
-    //Console.WriteLine (k);
-//} 
-//{do 
-//int i(int number4)
-  //{
-  // int i = number4 /10;
-  // return number4;
- // } 
- // while (i < 1000);
-
-  //  int number5 = i % 10;
-   // Console.WriteLine(number5);
-// }
