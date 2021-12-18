@@ -1,0 +1,15 @@
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.csproj.AssemblyReference.cache
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.AssemblyInfoInputs.cache
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.AssemblyInfo.cs
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.csproj.CoreCompileInputs.cache
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\bin\Debug\net6.0\Gbseminar2.exe
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\bin\Debug\net6.0\Gbseminar2.deps.json
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\bin\Debug\net6.0\Gbseminar2.runtimeconfig.json
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\bin\Debug\net6.0\Gbseminar2.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\bin\Debug\net6.0\ref\Gbseminar2.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\bin\Debug\net6.0\Gbseminar2.pdb
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\ref\Gbseminar2.dll
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.pdb
+C:\Users\Адм\Desktop\Gb programms\C# practice\Gbseminar2\obj\Debug\net6.0\Gbseminar2.genruntimeconfig.cache
